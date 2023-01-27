@@ -76,7 +76,7 @@ export const Cadastro = () => {
               <ErrorMessage errors={errors} name="password" />
 
             </div>
-            <div className="input-password">
+            <div className="input-text">
               <label htmlFor="confirm-password"> Confirme a senha:</label>
               <input
                 type="password"
