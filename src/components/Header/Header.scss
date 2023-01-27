@@ -1,0 +1,11 @@
+.header-container {
+  display: flex;
+  height: 60px;
+  justify-content: space-around;
+  align-items: center;
+  color: #fff;
+  background: #0F2027;  
+  background: -webkit-linear-gradient(to left, #2C5364, #203A43, #0F2027);  
+  background: linear-gradient(to left, #2C5364, #203A43, #0F2027); 
+  border-bottom: 1px double white;
+}
